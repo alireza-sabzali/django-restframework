@@ -1,1 +1,2 @@
-This is a test for branch merging.
+This is a test branch merging.
+Its ok alireza.
